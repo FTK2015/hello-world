@@ -1,0 +1,7 @@
+ERROR:
+git push origin master 
+error: src refspec master does not match any.
+
+SOLUTION:
+git commit -m "Initial commit."
+git push origin master 
